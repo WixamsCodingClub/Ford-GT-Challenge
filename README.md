@@ -44,7 +44,7 @@ Optional requirements:
 
 Tips:
 
-* Consider what should happen if the user presses both joypad or both fire buttons together, what should happen?
+* Consider what should happen if the user presses both joypad or both fire buttons together, what should the functionality be?
 * The car’s steering can become misaligned, meaning it doesn’t go straight. An offset is used to ensure it goes straight and a calibration mode can be used to tweak this offset if needed.
 * A `current_speed` parameter can be used to keep track of the car’s speed, this can then be used to set the motor speed. It’s recommended that `current_speed` uses a negative integer to indicate reverse.
 
