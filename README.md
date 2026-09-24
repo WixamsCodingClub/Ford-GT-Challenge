@@ -5,7 +5,7 @@ This project is a challenge for club members who want to try out their skills wi
 ![Image of the Lego Technic Ford GT](/assets/Lego-Technic-Ford-GT.png)
 
 ## Ford GT Car
-The project is based on a genuine Lego Technic Ford GT (42154) which has been converted to include a motor to drive the rear wheels, and a servo to control the steering. The motor and servo are from GeekServo and are the same style as used in the [32-in-1 Wonder Building Kit from ElecFreaks](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-32-in-1-wonder-building-kit-without-micro-bit-board). 
+The project is based on a genuine [Lego Technic Ford GT (42154)](https://www.lego.com/en-gb/product/2022-ford-gt-42154) which has been converted to include a motor to drive the rear wheels, and a servo to control the steering. The motor and servo are from GeekServo and are the same style as used in the [32-in-1 Wonder Building Kit from ElecFreaks](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-32-in-1-wonder-building-kit-without-micro-bit-board). 
 
 ![Image of GeekServo motor](/assets/GeekServo-Motor.jpg)
 
@@ -81,11 +81,11 @@ The Motor Driver controls the motor by setting a speed of 1-16 forwards or backw
 ## Resources
 
 Makecode Extensions:
-* Motor Driver: [https://github.com/waveshare/pxt-Motor](https://github.com/waveshare/pxt-Motor)
-* :GAME controller: Search for Kitronik, select ‘kitronik-game-controller’
-* :GAME ZIP 64 controller: Search for Kitronik, select ‘kitronik-zip-64’
+* **Motor Driver:** [https://github.com/waveshare/pxt-Motor](https://github.com/waveshare/pxt-Motor)
+* **:GAME controller:** Search for Kitronik, select ‘kitronik-game-controller’
+* **:GAME ZIP 64 controller:** Search for Kitronik, select ‘kitronik-zip-64’
 
 Datasheets:
 * [Motor Driver](https://www.waveshare.com/wiki/Motor_Driver_for_micro:bit)
-* [:GAME controller datasheet](/assets/5644-game-controller-microbit-datasheet.pdf)
-* [:GAME ZIP 64 controller datasheet](/assets/5626-game-zip-64-microbit-datasheet.pdf)
+* [:GAME controller datasheet (pdf)](/assets/5644-game-controller-microbit-datasheet.pdf)
+* [:GAME ZIP 64 controller datasheet (pdf)](/assets/5626-game-zip-64-microbit-datasheet.pdf)
